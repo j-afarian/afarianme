@@ -1,11 +1,5 @@
 @import url(font-awesome.min.css);
-@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300");
-
-/*
-	Identity by Pixelarity
-	pixelarity.com | hello@pixelarity.com
-	License: pixelarity.com/license
-*/
+@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400");
 
 /* Icon (alt) */
 
@@ -987,6 +981,11 @@
 		}
 
 /* Footer */
+
+.alias {
+	font-size: 9pt;
+	font-weight: 400;
+}
 
 	#footer {
 		-moz-align-self: -moz-flex-end;
